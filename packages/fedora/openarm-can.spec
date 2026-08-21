@@ -13,7 +13,7 @@
 # limitations under the License.
 
 Name:           openarm-can
-Version:        1.3.1
+Version:        1.3.2
 Release:        %{autorelease}
 Summary:        OpenArm CAN control library
 
